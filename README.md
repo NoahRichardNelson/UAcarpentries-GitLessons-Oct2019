@@ -30,11 +30,11 @@ Git and GitHub lessons for October 2019 UA Carpentries Workshop
     - git remote (git remote add origin)
     - git push (git push --set-upstream origin master)
   - advice: a git-based workflow
-    - git status (make the working tree clean)
+    1. git status (make the working tree clean)
       - (git stash?)
-    - git pull
-    - do work
-    - git add
-    - git commit
-    - (git add, git commit _as needed_)
-    - git push
+    2. git pull
+    3. do work
+    4. git add
+    5. git commit
+    6. (git add, git commit _as needed_)
+    7. git push
